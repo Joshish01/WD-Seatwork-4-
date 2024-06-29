@@ -56,7 +56,7 @@
 
 <!-- TODO: To be changed -->
 <!-- The following are just sample -->
-Different feature layouts. 
+2 Different feature display layout. 
 
 ### Key Components
 <!-- TODO: List of Key Components -->
@@ -110,3 +110,15 @@ WD-ProjectName
 | Title | Purpose | Link |
 |-|-|-|
 | landing bg | used for bg of my landing page | https://ph.pinterest.com/pin/703756186721662/ |
+| car1 | used for feature display 2 | https://ph.pinterest.com/pin/885238870491146177/
+| car2 | used for feature display 2 | https://ph.pinterest.com/pin/21532904461714257/
+| car3 | used for feature display 2 | https://ph.pinterest.com/pin/522839838008849169/
+| img1 | used for feature display 1 | https://ph.pinterest.com/pin/539306124139258336/
+| img 2| used for feature display 1 | https://ph.pinterest.com/pin/3588874695869795/
+| img 3| used for feature display 1 | https://ph.pinterest.com/pin/4644405856973370/
+| img 4| used for feature display 1 | https://ph.pinterest.com/pin/5277724555403364/
+|img 5 | used for feature display 1 | https://ph.pinterest.com/pin/1055599906822671/
+| img 6| used for feature display 1 | https://ph.pinterest.com/pin/81205599524538288/
+| img 7| used for feature display 1 | https://ph.pinterest.com/pin/35395547062054085/
+| color palette | used this hex color for my bg of feature display 1 | https://www.color-hex.com/color-palette/4619
+| yt | used this yt tutorial for my feature display 1 | https://www.youtube.com/watch?v=I6wk5FPIugI

@@ -1,4 +1,4 @@
-/*LANDING PAGE*/
+
 * {
     margin: 0;
     padding: 0;
@@ -12,7 +12,7 @@ header {
     justify-content: center;
     padding: 1.5rem 20vw;
     align-items: center;
-    background: #138cc0;
+    background: #000000;
 }
 
 nav {
@@ -27,39 +27,38 @@ a {
     font-size: 1rem;
 }
 
-img {
-    max-width: 330px;
-    float: left;
-    border: 3px solid;
-    margin-right: 15px;
-    
+.bg {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    min-height: 100vh; 
+    text-align: center;
 }
 
-.bg {
-    margin: 150px auto;
-    width: 70%;
-    
-    
+
+.side-image {
+    max-width: 50%;
+    height: auto;
+    margin-right: 20px;
 }
+
 
 .title {
-    color: rgb(5, 5, 5);
-    padding: 120px;
-    margin: 10px
+    max-width: 50%;
+    text-align: left;
 }
+
 .title h1 {
     font-size: 30px;
+    margin-bottom: 10px;
 }
 
 .title h3 {
     font-size: 22px;
+    margin-bottom: 10px;
 }
 
 .title p {
     font-size: 18px;
-}
-
-
-
-
-
+    line-height: 1.6;
+    margin-bottom: 20px;
